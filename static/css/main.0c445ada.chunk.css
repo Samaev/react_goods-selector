@@ -1,0 +1,2 @@
+.goodsSelector{display:flex;flex-direction:column;align-items:center;margin-top:50px;width:800px;border:1px #000}.listOfGoods__item{width:300px;line-height:40px;display:flex;padding-left:15px;justify-content:space-between;border-radius:5px}.listOfGoods__item--active{background-color:#0ff}.listOfGoods__item:hover{background-color:#5f9ea0}.subtitle{width:400px;word-wrap:normal;text-align:center}
+/*# sourceMappingURL=main.0c445ada.chunk.css.map */
